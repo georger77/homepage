@@ -97,7 +97,7 @@ a.sb.gradient:after,
 	/* default gradient */
 	background: -moz-linear-gradient(top, #eeeeee 0%, #d2d2d2 100%);
 	background: -webkit-linear-gradient(top, #eeeeee 0%, #d2d2d2 100%);
-	background: linear-gradient(to top, #eeeeee 0%, #d2d2d2 100%);
+	background: linear-gradient(top, #eeeeee 0%, #d2d2d2 100%);
 }
 
 /* gradient blue */
